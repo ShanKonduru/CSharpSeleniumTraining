@@ -8,6 +8,9 @@ namespace unittest {
         public TestContext TestContext { get; set; }
 
         public UnitTestCalculator () {
+            if (TestContext != null) {
+                TestContext.WriteLine ("AssemblyInitialize");
+            }
         }
 
         [AssemblyInitialize]
@@ -32,10 +35,13 @@ namespace unittest {
 
         [ClassCleanup]
         public static void ClassCleanup () {
+            Console.WriteLine ("ClassCleanup ");
         }
 
         [AssemblyCleanup]
         public static void AssemblyCleanup () {
+            Console.WriteLine ("AssemblyCleanup ");
+
         }
 
         [TestMethod]
