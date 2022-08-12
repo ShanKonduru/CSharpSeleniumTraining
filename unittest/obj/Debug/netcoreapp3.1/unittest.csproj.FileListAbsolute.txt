@@ -94,3 +94,4 @@ c:\CSharpSeleniumTraining\unittest\obj\Debug\netcoreapp3.1\unittest.csproj.CopyC
 c:\CSharpSeleniumTraining\unittest\obj\Debug\netcoreapp3.1\unittest.dll
 c:\CSharpSeleniumTraining\unittest\obj\Debug\netcoreapp3.1\unittest.pdb
 c:\CSharpSeleniumTraining\unittest\obj\Debug\netcoreapp3.1\unittest.genruntimeconfig.cache
+C:\CSharpSeleniumTraining\unittest\bin\Debug\netcoreapp3.1\testhost.exe
