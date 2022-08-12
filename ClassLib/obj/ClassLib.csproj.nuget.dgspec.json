@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\CSharpSeleniumTraining\\ClassLib\\ClassLib.csproj": {}
+    "C:\\CSharpSeleniumTraining\\ClassLib\\ClassLib.csproj": {}
   },
   "projects": {
-    "c:\\CSharpSeleniumTraining\\ClassLib\\ClassLib.csproj": {
+    "C:\\CSharpSeleniumTraining\\ClassLib\\ClassLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\CSharpSeleniumTraining\\ClassLib\\ClassLib.csproj",
+        "projectUniqueName": "C:\\CSharpSeleniumTraining\\ClassLib\\ClassLib.csproj",
         "projectName": "ClassLib",
-        "projectPath": "c:\\CSharpSeleniumTraining\\ClassLib\\ClassLib.csproj",
+        "projectPath": "C:\\CSharpSeleniumTraining\\ClassLib\\ClassLib.csproj",
         "packagesPath": "C:\\Users\\E001150\\.nuget\\packages\\",
-        "outputPath": "c:\\CSharpSeleniumTraining\\ClassLib\\obj\\",
+        "outputPath": "C:\\CSharpSeleniumTraining\\ClassLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\E001150\\AppData\\Roaming\\NuGet\\NuGet.Config"

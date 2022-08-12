@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9efmVdqU2VDT3eM6X6gqa7cnSWNl0EjP9xiP+ZWiKaKyl1x28uY1JNEtqO5yymjUiJ51HT9xbC1Opt2J+oZ8nA==",
+  "dgSpecHash": "KviBolm0zEt5zVXBFFiODaOuLoTk2UPtfl/xywlkb9XgsHdM0FeFhU972mcLFYCi/xQwzujpn+ogCXwYZvDEFA==",
   "success": true,
-  "projectFilePath": "c:\\CSharpSeleniumTraining\\ClassLib\\ClassLib.csproj",
+  "projectFilePath": "C:\\CSharpSeleniumTraining\\ClassLib\\ClassLib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\E001150\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\E001150\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

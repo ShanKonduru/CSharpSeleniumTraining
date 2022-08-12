@@ -6062,11 +6062,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\CSharpSeleniumTraining\\unittest\\unittest.csproj",
+      "projectUniqueName": "C:\\CSharpSeleniumTraining\\unittest\\unittest.csproj",
       "projectName": "unittest",
-      "projectPath": "c:\\CSharpSeleniumTraining\\unittest\\unittest.csproj",
+      "projectPath": "C:\\CSharpSeleniumTraining\\unittest\\unittest.csproj",
       "packagesPath": "C:\\Users\\E001150\\.nuget\\packages\\",
-      "outputPath": "c:\\CSharpSeleniumTraining\\unittest\\obj\\",
+      "outputPath": "C:\\CSharpSeleniumTraining\\unittest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\E001150\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -6080,8 +6080,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "c:\\CSharpSeleniumTraining\\ClassLib\\ClassLib.csproj": {
-              "projectPath": "c:\\CSharpSeleniumTraining\\ClassLib\\ClassLib.csproj"
+            "C:\\CSharpSeleniumTraining\\ClassLib\\ClassLib.csproj": {
+              "projectPath": "C:\\CSharpSeleniumTraining\\ClassLib\\ClassLib.csproj"
             }
           }
         }

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Operand1>10</Operand1>
+    <Operand2>20</Operand2>
+    <ExpectedResult> 30</ExpectedResult>
+  </row>
+  <row>
+    <Operand1>20</Operand1>
+    <Operand2>30</Operand2>
+    <ExpectedResult> 50</ExpectedResult>
+  </row>
+  <row>
+    <Operand1>300</Operand1>
+    <Operand2>200</Operand2>
+    <ExpectedResult>500</ExpectedResult>
+  </row>
+</root>
