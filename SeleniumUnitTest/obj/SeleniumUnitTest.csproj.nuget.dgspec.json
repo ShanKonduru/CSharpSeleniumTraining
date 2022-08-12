@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\CSharpSeleniumTraining\\SeleniumUnitTest\\SeleniumUnitTest.csproj": {}
+    "C:\\CSharpSeleniumTraining\\SeleniumUnitTest\\SeleniumUnitTest.csproj": {}
   },
   "projects": {
-    "c:\\CSharpSeleniumTraining\\SeleniumUnitTest\\SeleniumUnitTest.csproj": {
+    "C:\\CSharpSeleniumTraining\\SeleniumUnitTest\\SeleniumUnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\CSharpSeleniumTraining\\SeleniumUnitTest\\SeleniumUnitTest.csproj",
+        "projectUniqueName": "C:\\CSharpSeleniumTraining\\SeleniumUnitTest\\SeleniumUnitTest.csproj",
         "projectName": "SeleniumUnitTest",
-        "projectPath": "c:\\CSharpSeleniumTraining\\SeleniumUnitTest\\SeleniumUnitTest.csproj",
+        "projectPath": "C:\\CSharpSeleniumTraining\\SeleniumUnitTest\\SeleniumUnitTest.csproj",
         "packagesPath": "C:\\Users\\E001150\\.nuget\\packages\\",
-        "outputPath": "c:\\CSharpSeleniumTraining\\SeleniumUnitTest\\obj\\",
+        "outputPath": "C:\\CSharpSeleniumTraining\\SeleniumUnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\E001150\\AppData\\Roaming\\NuGet\\NuGet.Config"

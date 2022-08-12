@@ -1,1 +1,2 @@
 SeleniumUnitTest.IndexPageUnitTest.TestMethod1
+SeleniumUnitTest.IndexPageUnitTest.DataRowDrivenTestSeleniumMethod
