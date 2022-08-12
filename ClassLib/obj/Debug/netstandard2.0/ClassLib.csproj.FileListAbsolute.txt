@@ -1,0 +1,9 @@
+c:\CSharpSeleniumTraining\ClassLib\bin\Debug\netstandard2.0\ClassLib.deps.json
+c:\CSharpSeleniumTraining\ClassLib\bin\Debug\netstandard2.0\ClassLib.dll
+c:\CSharpSeleniumTraining\ClassLib\bin\Debug\netstandard2.0\ClassLib.pdb
+c:\CSharpSeleniumTraining\ClassLib\obj\Debug\netstandard2.0\ClassLib.csprojAssemblyReference.cache
+c:\CSharpSeleniumTraining\ClassLib\obj\Debug\netstandard2.0\ClassLib.AssemblyInfoInputs.cache
+c:\CSharpSeleniumTraining\ClassLib\obj\Debug\netstandard2.0\ClassLib.AssemblyInfo.cs
+c:\CSharpSeleniumTraining\ClassLib\obj\Debug\netstandard2.0\ClassLib.csproj.CoreCompileInputs.cache
+c:\CSharpSeleniumTraining\ClassLib\obj\Debug\netstandard2.0\ClassLib.dll
+c:\CSharpSeleniumTraining\ClassLib\obj\Debug\netstandard2.0\ClassLib.pdb
