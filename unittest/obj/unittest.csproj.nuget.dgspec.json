@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CSharpSeleniumTraining\\unittest\\unittest.csproj": {}
+    "c:\\CSharpSeleniumTraining\\unittest\\unittest.csproj": {}
   },
   "projects": {
-    "C:\\CSharpSeleniumTraining\\ClassLib\\ClassLib.csproj": {
+    "c:\\CSharpSeleniumTraining\\ClassLib\\ClassLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSharpSeleniumTraining\\ClassLib\\ClassLib.csproj",
+        "projectUniqueName": "c:\\CSharpSeleniumTraining\\ClassLib\\ClassLib.csproj",
         "projectName": "ClassLib",
-        "projectPath": "C:\\CSharpSeleniumTraining\\ClassLib\\ClassLib.csproj",
+        "projectPath": "c:\\CSharpSeleniumTraining\\ClassLib\\ClassLib.csproj",
         "packagesPath": "C:\\Users\\E001150\\.nuget\\packages\\",
-        "outputPath": "C:\\CSharpSeleniumTraining\\ClassLib\\obj\\",
+        "outputPath": "c:\\CSharpSeleniumTraining\\ClassLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\E001150\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -57,14 +57,14 @@
         }
       }
     },
-    "C:\\CSharpSeleniumTraining\\unittest\\unittest.csproj": {
+    "c:\\CSharpSeleniumTraining\\unittest\\unittest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSharpSeleniumTraining\\unittest\\unittest.csproj",
+        "projectUniqueName": "c:\\CSharpSeleniumTraining\\unittest\\unittest.csproj",
         "projectName": "unittest",
-        "projectPath": "C:\\CSharpSeleniumTraining\\unittest\\unittest.csproj",
+        "projectPath": "c:\\CSharpSeleniumTraining\\unittest\\unittest.csproj",
         "packagesPath": "C:\\Users\\E001150\\.nuget\\packages\\",
-        "outputPath": "C:\\CSharpSeleniumTraining\\unittest\\obj\\",
+        "outputPath": "c:\\CSharpSeleniumTraining\\unittest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\E001150\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -78,8 +78,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\CSharpSeleniumTraining\\ClassLib\\ClassLib.csproj": {
-                "projectPath": "C:\\CSharpSeleniumTraining\\ClassLib\\ClassLib.csproj"
+              "c:\\CSharpSeleniumTraining\\ClassLib\\ClassLib.csproj": {
+                "projectPath": "c:\\CSharpSeleniumTraining\\ClassLib\\ClassLib.csproj"
               }
             }
           }
